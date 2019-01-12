@@ -1,1 +1,1 @@
-Moving forward, this repository will be the primary way of collaborating and contributing to the [pi-base](https://topology.jdabbs.com), and we'll be building and distributing tools to make that collaboration easier and richer.
+You probably want [the actual data repo](https://github.com/pi-base/data). This repo exists only for testing.
